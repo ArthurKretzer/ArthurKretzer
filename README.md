@@ -49,7 +49,7 @@ I have built entire on-premises data lakes using open source technologies, orche
 ## 📈 GitHub Stats
 
 ![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurKretzer&show_icons=true&theme=dark)
-
+![Arthur's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurKretzer&layout=compact&langs_count=16&theme=dracula)
 ---
 
 ## 🌱 Always Learning
